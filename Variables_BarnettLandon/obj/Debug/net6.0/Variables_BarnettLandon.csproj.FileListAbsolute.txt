@@ -1,0 +1,14 @@
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\obj\Debug\net6.0\Variables_BarnettLandon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\obj\Debug\net6.0\Variables_BarnettLandon.AssemblyInfoInputs.cache
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\obj\Debug\net6.0\Variables_BarnettLandon.AssemblyInfo.cs
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\obj\Debug\net6.0\Variables_BarnettLandon.csproj.CoreCompileInputs.cache
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\bin\Debug\net6.0\Variables_BarnettLandon.exe
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\bin\Debug\net6.0\Variables_BarnettLandon.deps.json
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\bin\Debug\net6.0\Variables_BarnettLandon.runtimeconfig.json
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\bin\Debug\net6.0\Variables_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\bin\Debug\net6.0\Variables_BarnettLandon.pdb
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\obj\Debug\net6.0\Variables_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\obj\Debug\net6.0\refint\Variables_BarnettLandon.dll
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\obj\Debug\net6.0\Variables_BarnettLandon.pdb
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\obj\Debug\net6.0\Variables_BarnettLandon.genruntimeconfig.cache
+C:\Users\LandonBarnett\source\repos\Variables_BarnettLandon\Variables_BarnettLandon\obj\Debug\net6.0\ref\Variables_BarnettLandon.dll
